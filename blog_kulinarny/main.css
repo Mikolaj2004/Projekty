@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #DEC39B;
+    margin: 0vw 12vw;
+    background-size: cover;
+}
+
+header {
+    height: 20vw;
+    border: 1px solid black;
+    background-image: url("rogale.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.logo {
+    height: 18vw;
+    width: 18vw;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 10vw;
+    transform: translate(-50%);
+}
+
+main {
+    height: auto;
+    background-color: bisque;
+}
+
+.cook {
+    position: fixed;
+    top: 100%;
+    left: 85%;
+    transform: translate(-50%, -95%);
+}
+
+.cook_svg {
+    width: 540px;
+    height: 500px;
+}
+
+#dymek {
+    position: absolute;
+    top: 23px;
+    left: 320px;
+    width: 140px;
+    font-size: 19px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#hand {
+    animation: machanie 3s ease infinite;
+    transform-origin: bottom;
+    transform-box: fill-box;
+}
+
+@keyframes machanie {
+    0% {
+        transform: rotateZ(-20deg);
+    }
+
+    50% {
+        transform: rotateZ(15deg);
+    }
+
+    100% {
+        transform: rotateZ(-20deg);
+    }
+}
+
+#content1 {
+    padding-top: 120px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.content {
+    height: 1000px;
+    width: 100%;
+}
+
+.box {
+    height: 23vw;
+    margin: 2vw;
+}
+
+.box:hover {
+    box-shadow: black;
+}
+
+.box>img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+
+.left>img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
+
+footer {
+    background-color: bisque;
+    font-size: 2vw;
+    font-family: monospace
+}
+
+img {
+    width: 6vw;
+    height: 6vw;
+}
+
+.top {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    color: black;
+    font-size: 4vw;
+    font-family: fantasy;
+    text-decoration: none;
+    text-shadow: 4px 2px 6px #ffffff;
+}
+
+.autorzy {
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.copy {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.left {
+    margin: 1vw;
+    float: left;
+    height: 800px;
+    width: 45%;
+
+}
+
+.right {
+    margin: 1vw;
+    padding: 5px;
+    float: right;
+    height: 800px;
+    width: 45%;
+    border: 1px solid black;
+}
+
+#text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke: 0.1vw black;
+    color: red;
+    font-size: 40px;
+}
+
+#ptext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke: 0.1vw black;
+    color: red;
+    font-size: 20px;
+}
+
+h2 {
+    position: relative;
+    color: brown;
+    -webkit-text-stroke: 0.1vw black;
+    text-transform: uppercase;
+}
+
+h2::before {
+    content: attr(data-text);
+    position: absolute;
+    white-space: nowrap;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: grey;
+    -webkit-text-stroke: 0vw black;
+    border-right: 2px solid black;
+    overflow: hidden;
+    animation: animate 6s linear infinite;
+}
+
+@keyframes animate {
+    0%,
+    10%,
+    100% {
+        width: 0;
+    }
+
+    70%,
+    90% {
+        width: 100%;
+    }
+}

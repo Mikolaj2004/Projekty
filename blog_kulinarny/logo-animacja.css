@@ -1,0 +1,131 @@
+#path1 {
+    stroke-dasharray: 878;
+    animation: path1 5s ease;
+}
+
+@keyframes path1 {
+    from {
+        stroke-dashoffset: 878;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+#path2 {
+    stroke-dasharray: 600;
+    animation: path2 5s ease;
+}
+
+@keyframes path2 {
+    from {
+        fill: #DEC39B;
+        stroke-dashoffset: 600;
+    }
+    to {
+        stroke-dashoffset: 0;
+        fill: #FBE188;
+    }
+}
+
+#path3 {
+    stroke-dasharray: 227;
+    animation: path3 5s ease;
+}
+
+@keyframes path3 {
+    from {
+        stroke-dashoffset: 227;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+#path4 {
+    stroke-dasharray: 227;
+    animation: path4 5s ease;
+}
+
+@keyframes path4 {
+    from {
+        stroke-dashoffset: 227;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+#path5 {
+    stroke-dasharray: 455;
+    animation: path5 5s ease;
+}
+
+@keyframes path5 {
+    from {
+        fill: #DEC39B;
+        stroke-dashoffset: 455;
+    }
+    to {
+        fill: #610000;
+        stroke-dashoffset: 0;
+    }
+}
+
+#path6,
+#path7,
+#path8,
+#path9 {
+    animation: path6-9 5s ease;
+}
+
+@keyframes path6-9 {
+    from {
+        opacity: 0%;
+    }
+    to {
+        opacity: 100%;
+    }
+}
+
+#path10,
+#path11 {
+    animation: path10-11 5s ease;
+}
+
+@keyframes path10-11 {
+    from {
+        fill-opacity: 0%;
+    }
+    to {
+        fill-opacity: 20%;
+    }
+}
+
+#path12,
+#path13 {
+    animation: path12-13 5s ease;
+}
+
+@keyframes path12-13 {
+    from {
+        fill-opacity: 0%;
+    }
+    to {
+        fill-opacity: 10%;
+    }
+}
+
+#path14,
+#path15 {
+    animation: path14-15 5s ease;
+}
+
+@keyframes path14-15 {
+    from {
+        fill: #DEC39B;
+    }
+    to {
+        fill: black;
+    }
+}
