@@ -1,0 +1,160 @@
+/*All not needed*/
+.test{
+  height: 1200px;
+    /*https://rr.noordstar.me/sus-af461114*/
+}
+/*For all resolutions*/
+body{
+    font-family: 'Bebas Neue';
+    letter-spacing:1.5px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+/*Smaller devices less than 650px width*/
+/*Menu*/
+  .menu_bg{
+    width: 100%;
+    height: 150px;
+    background-color:white;
+    margin-bottom: 10px;
+    justify-items: center;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: auto auto auto; 
+    grid-template-areas: 
+    "logo logo flota"
+    "about kontakt login";
+  }
+  .containerFlota, .containerAbout, .containerContact, .containerLogin, .containerLogo{
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+  }
+  .containerFlota{
+    grid-area: flota;
+  }
+  .containerAbout{
+    grid-area: about;
+  }
+  .containerContact{
+    grid-area: kontakt;
+  }
+  .containerLogin{
+    grid-area: login;
+  }
+  .containerLogo{
+    grid-area: logo;
+    cursor:pointer;
+  }
+
+  /*Footer*/
+  .containerFoot{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: column;
+    flex:wrap;
+    padding:33px;
+    font-size: 14px;
+  }
+  .containerCopy{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+  }
+  .containerAutor,.containerOpis,.containerKontakt{
+    width:100%;
+    text-align: center;
+    margin-bottom: 14px;
+  }
+  .containerKontakt{
+    margin-bottom: 0px;
+  }
+  i{
+    font-size: 30px;
+  }
+
+  hr{
+    border-color: #093649;
+    background-color: #093649;
+    width:100%;
+    height:3px;
+    margin:auto;
+}
+/* Dropdown menu stuff */
+  .dropbtn {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    font-weight:900;
+    border: none;
+    height: 50px;
+    width: 75px;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-weight:900;
+    display: block;
+  }
+  .dropdown-content a:hover {background-color: #ddd;}
+  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropbtn,.dropbtn:hover {background-color: #093649; color: white;}
+  .dropbtn:hover i,.dropdown:hover i {color: white;}
+  
+/*Medium devices less than 950px width*/
+@media only screen and (min-width: 650px) {
+/*Menu*/
+  .menu_bg{
+    height: 75px;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-areas: 
+    "about kontakt logo flota login";
+  }
+  .dropbtn {
+    font-size: 14px;
+    width: 100px;
+  }
+  section>i{
+    font-size:16px;
+  }
+/*Footer*/
+  .containerFoot{
+    flex-direction: row;
+    font-size: 14px;
+  }
+  .containerAutor,.containerOpis{
+    margin-bottom: 0px;
+  }
+}
+
+/*Any Pc*/
+@media only screen and (min-width: 950px){
+/*Menu*/
+  .dropbtn {
+    font-size: 16px;
+    width: 150px;
+  }
+/*Footer*/
+  .containerFoot{
+    font-size: 16px;
+  }
+}					

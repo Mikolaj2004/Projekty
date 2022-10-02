@@ -1,0 +1,56 @@
+	.pasek{
+		background-color: #093649;
+		color: white;
+	}
+	.jacht{
+		border: 3px solid;
+		border-color: #093649;
+		color: black;
+	}
+	.pasek, .jacht{
+		height: 50px;
+		margin: 30px;
+		margin-left: 5%;
+		margin-right: 5%;
+		font-size: 15px;
+		display: grid;
+		grid-template-columns: 25% 25% 25% 25%;
+		grid-template-rows: auto;
+		align-items: center;
+		text-align: center;
+	}
+	.buttons {
+		text-align: center;
+		font-family: Bebas Neue;
+		text-decoration: none;
+		cursor: pointer;
+		border-radius: 50px 20px;
+		margin-left: 20%;
+		margin-right: 20%;
+		height: 40px;
+		background-color: whitesmoke;
+		color: black;
+		font-size: 20px;
+		font-family: Bebas Neue;
+		border: 1px solid black;
+	}
+	
+	.buttons:hover {
+		background-color: lightskyblue;
+		box-shadow: 5px 5px 8px grey;
+	}
+
+@media only screen and (min-width: 600px){
+	.pasek, .jacht{
+		margin-left: 10%;
+		margin-right: 10%;
+		font-size: 25px;
+	}
+}
+@media only screen and (min-width: 1000px){
+	.pasek, .jacht{
+		margin-left: 15%;
+		margin-right: 15%;
+		font-size: 40px;
+	}
+}

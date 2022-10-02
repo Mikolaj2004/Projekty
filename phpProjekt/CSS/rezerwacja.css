@@ -1,0 +1,72 @@
+.rezerwacja{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border: 3px solid #093649;
+	font-size: 20px;
+	text-align: center;
+}
+h1{
+	font-size: 35px;
+}
+.dane,.nazwy{
+	margin-left: 5%;
+	margin-right: 5%;
+	display: grid;
+	grid-template-columns: 100% ;
+	grid-template-rows: auto;
+	align-items: center;
+	justify-content: center;
+}
+.nazwy{
+	font-size: 25px;
+	background-color: #093649;
+	color: white;
+}
+.dane{
+	border: 3px solid #093649;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.zaplac{
+	margin-bottom: 30px;
+}
+.back,.reserve{
+	font-family: "Bebas neue";
+	font-size: 18px;
+	height: 50px;
+	width: 150px;
+}
+.reserve{
+	background-color: rgb(41, 190, 41);
+}
+.back{
+	background-color:gray
+}
+@media only screen and (min-width: 650px){
+	.rezerwacja{
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	.nazwy{
+		grid-template-columns: 33% 33% 33% ;
+	}
+	.dane{
+		margin-left: 10%;
+		margin-right: 10%;
+		grid-template-columns: 33% 33% 33% ;
+	}
+}
+@media only screen and (min-width: 830px){
+	.rezerwacja{
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+	h1{
+		font-size: 40px;
+	}
+	.nazwy{
+		margin-left: 10%;
+		margin-right: 10%;
+		font-size: 30px;
+	}
+}
