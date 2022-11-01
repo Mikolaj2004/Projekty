@@ -1,0 +1,150 @@
+1: Czy możesz wyprzedzić rowerzystę jeśli odległość od niego do twojego samochodu wynosi 0.5m?
+Dobrze
+Odpowiedz: Nie
+
+2: Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się twoja zdolność dostrzegania znaków i sygnałów drogowych?
+Zle
+Odpowiedz: Nie
+Poprawna odpowiedz: Tak
+
+3: Czy możesz wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?
+Dobrze
+Odpowiedz: Nie
+
+4: Czy na drodze jednokierunkowej można zawracać?
+Dobrze
+Odpowiedz: Nie
+
+5: Czy masz obowiązek stosowania się do poleceń dawanych przez osobę wykonującą roboty na drodze na zlecenie zarządcy drogi?
+Zle
+Odpowiedz: Nie
+Poprawna odpowiedz: Tak
+
+6: Czy podczas omijania obowiązuje Cię zachowanie bezpiecznego odstępu?
+Dobrze
+Odpowiedz: Tak
+
+7: Czy kierując pojazdem w stanie pobudzenia emocjonalnego, zwiększasz precyzję i trafność swoich reakcji w sytuacji niebezpiecznej?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+8: Czy zażycie przez prowadzącego pojazd niewielkiej ilości narkotyków wpływa na poprawę zdolności do prawidłowej oceny ryzyka na drodze? 
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+9: Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+10: Czy można zawracać w tunelu? 
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+11: Czy masz prawo zawrócić na moście ?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+12: Czy na drodze ekspresowej możesz zawrócić?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+13: Czy masz obowiązek zachować bezpieczny odstęp od wymijanego pojazdu?
+Dobrze
+Odpowiedz: Tak
+
+14: Czy wjeżdżając na to skrzyżowanie masz pierwszeństwo przed pojazdem z lewej strony?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+15: Czy za tym znakiem możesz skręcić w lewo ?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+16: Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm3?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+17: Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?
+Zle
+Odpowiedz: Tak
+Poprawna odpowiedz: Nie
+
+18: Czy masz prawo użyć sygnału dźwiękowego aby ostrzec innych przed bezpośrednim niebezpieczeństwem?
+Dobrze
+Odpowiedz: Tak
+
+19: Czy polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi ?
+Dobrze
+Odpowiedz: Tak
+
+20: Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?
+Dobrze
+Odpowiedz: Tak
+
+21: Która z wymienionych czynności należy do obowiązków kierowcy uczestniczącego w zdarzeniu drogowym, w którym nie ma osób zabitych lub rannych?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: C
+
+22: Który z wymienionych czynników ma bezpośredni wpływ na długości całkowitej drogi zatrzymania samochodu osobowego?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: C
+
+23: Jaki odstęp należy zachować podczas wyprzedzania kolumny pieszych?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: C
+
+24: Podczas wykonywania którego z wymienionych manewrów masz obowiązek zachować odstęp nie mniejszy niż 4 metr od pojazdu?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: B
+
+25: W jaki sposób należy postąpić w przypadku gdy poszkodowany uległ oparzeniu?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: C
+
+26: Czy liście leżące na jezdni mogą mieć wpływ na długość drogi zatrzymania pojazdu?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: B
+
+27: Jakie czynniki mają wpływ na łączny czas postrzegania i reakcji kierującego pojazdem?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: B
+
+28: Jakie mogą być konsekwencje użytkowania opon z nadmiernie zużytym bieżnikiem podczas hamowania na mokrej nawierzchni?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: C
+
+29: Poszkodowany ma złamanie zamknięte kończyny dolnej i skarży się na silny ból. Czeka na przyjazd zespołu ratownictwa medycznego. Jakie działania powinien podjąć świadek zdarzenia?
+Dobrze
+Odpowiedz: A
+
+30: Jaki odstęp od poprzedzającego pojazdu musisz utrzymać stojąc przed skrzyżowaniem i czekając na sygnał zielony?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: C
+
+31: Którą stroną koca termoizolacyjnego należy nakryć poszkodowanego, aby ochronić go przed utratą ciepła?
+Dobrze
+Odpowiedz: A
+
+32: Jak często należy obracać poszkodowanego na drugi bok po ułożeniu go w pozycji bezpiecznej?
+Zle
+Odpowiedz: A
+Poprawna odpowiedz: B
+

@@ -1,0 +1,96 @@
+Czy za tym znakiem możesz skręcić w lewo ?
+1
+false
+Czy za tym znakiem możesz jechać prosto ?
+1
+false
+Czy podczas omijania obowiązuje Cię zachowanie bezpiecznego odstępu?
+4
+true
+Czy masz obowiązek zachować bezpieczny odstęp od wymijanego pojazdu?
+4
+true
+Czy na autostradzie masz obowiązek włączyć światła awaryjne unieruchomionego z powodu wypadku pojazdu, którym kierujesz?
+4
+true
+Czy kierując pojazdem w stanie pobudzenia emocjonalnego, zwiększasz precyzję i trafność swoich reakcji w sytuacji niebezpiecznej?
+4
+false
+Czy masz obowiązek stosowania się do poleceń dawanych przez osobę wykonującą roboty na drodze na zlecenie zarządcy drogi?
+4
+true
+Czy polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi ?
+4
+true
+Czy na drodze ekspresowej możesz zawrócić?
+5
+false
+Czy można zawracać w tunelu? 
+4
+false
+Czy na drodze jednokierunkowej można cofać?
+4
+true
+Czy na drodze jednokierunkowej można zawracać?
+4
+false
+Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się twoja zdolność dostrzegania znaków i sygnałów drogowych?
+4
+false 
+Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?
+4
+false
+Czy wolno Ci holować pojazd na autostradzie?
+3
+false
+Chcesz skręcić w prawo, czy musisz ustąpić pierwszeństwa pojazdowi uprzywilejowanemu który skręca w lewo?
+4
+true
+Czy masz prawo zawrócić na moście ?
+4
+false
+Czy rano powinieneś zrezygnować z kierowania pojazdem, jeśli wieczorem poprzedniego dnia spożyłeś dużą ilość alkoholu?
+4
+true
+Czy spożyty alkohol wpływa na zmianę pola widzenia kierującego pojazdem?
+4
+true
+Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm3?
+4
+false
+Czy zażycie przez prowadzącego pojazd niewielkiej ilości narkotyków wpływa na poprawę zdolności do prawidłowej oceny ryzyka na drodze? 
+4
+false
+Czy masz prawo użyć sygnału dźwiękowego aby ostrzec innych przed bezpośrednim niebezpieczeństwem?
+4
+true
+Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?
+6
+true
+Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?
+7
+false 
+Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?
+4
+true 
+Czy wjeżdżając na to skrzyżowanie masz pierwszeństwo przed pojazdem z lewej strony?
+9
+false
+Czy apteczka jest obowiązkowym elementem wyposażenia w samochodzie ?
+4
+false
+Czy możesz wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?
+4
+false
+Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pieszemu?
+9
+true
+Czy masz obowiązek ustąpić pierwszeństwa tramwajowi który wyjeżdża z zajezdni?
+4
+true
+Czy możesz wyprzedzić rowerzystę jeśli odległość od niego do twojego samochodu wynosi 0.5m?
+4
+false
+Czy należy sygnalizować manewr wyprzedzania kierunkowskazem?
+10
+true

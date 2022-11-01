@@ -1,0 +1,104 @@
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\4htp\Desktop\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\bodzi\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\mikol\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\OEM\source\repos\Prawo jazdy_zmiany\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\bodzi\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Start.resources
+C:\Users\mikol\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Start.resources
+C:\Users\OEM\source\repos\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Start.resources
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Start.resources
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\!programowanie\!!!PAD\essunia\Prawo jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe.config
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.exe
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\bin\Debug\Prawo jazdy.pdb
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.AssemblyReference.cache
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Prawo_Jazdy.resources
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Properties.Resources.resources
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo_jazdy.Start.resources
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.GenerateResource.cache
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.csproj.CoreCompileInputs.cache
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.exe
+C:\Users\mikol\source\repos\Aplikacja - Prawo Jazdy\Prawo jazdy\obj\Debug\Prawo jazdy.pdb
