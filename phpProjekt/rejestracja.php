@@ -94,7 +94,7 @@ session_start();
             </main>
             <footer>
                 <?php
-                include_once('footer.php');                                                                             //ciekawe czy ktoś to będzie czytał?   23.10.2021  Time: 04:23 am.   ~ Mateusz
+                include_once('footer.php');                                                                          
                 ?> 
             </footer>
     </body>
